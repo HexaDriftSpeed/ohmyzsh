@@ -26,7 +26,7 @@ Twitter), and join us on [Discord](https://discord.gg/ohmyzsh).
 <summary>Table of Contents</summary>
 
 - [Getting Started](#getting-started)
-  - [Operating System Compatibility](#operating-system-compatibility)
+  - [Operating System Compatibility](#operating-syst
   - [Prerequisites](#prerequisites)
   - [Basic Installation](#basic-installation)
     - [Manual Inspection](#manual-inspection)
